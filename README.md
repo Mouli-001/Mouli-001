@@ -1,4 +1,4 @@
-[# 💫 About Me:
+ 💫 About Me:
 👋 HI, I'm METTA.MOULI                            
 🚀 B.Tech Cybersecurity student at Uttaranchal University, focused on building and securing real-world systems.                          
 🛠️ Strong foundation in development with a shift toward secure coding and system protection.                     
