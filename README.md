@@ -1,48 +1,4 @@
-Profile Studio
-README.md builder
 
-Theme
-
-
-1
-Identity
-2
-About
-3
-Stack
-4
-Socials
-5
-Add-ons
-Let's start with the basics
-Your username powers the live widgets. The header is the big line at the top; the headlines are the small lines beneath it.
-
-GitHub username
-github.com/
-mouli-001
-Powers your stats cards and dynamic widgets.
-Header — the big line at the top
-Hello! I'm Mouli
-Type your name after it (“Hello! I’m Anurag”), replace it entirely, or clear it to hide the header.
-Headline 1 — small line under your name
-Ready to learn
-Headline 2 — optional, adds a second animated line
-Turning coffee into clean, tested code
-Headline color — for the moving lines (different from the header)
-
-
-
-
-
-
-
-
-
-Continue
-Preview
-Markdown
-Copy
-Download
 <p align="center">
   <a href="https://github.com/mouli-001">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Mouli" alt="Hello! I&#39;m Mouli" />
